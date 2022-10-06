@@ -1,0 +1,23 @@
+.App {
+  width: 90%;
+  margin: auto;
+  padding: 25px;
+}
+
+
+.wrapper2{
+  margin-top: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.wrapper2 div{
+  /* margin: 5px 0px; */
+  padding: 2px;
+}
+.select-wrapper{
+  padding: 10px;
+  border-radius: 7px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
